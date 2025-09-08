@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ashwin-varghese-vinod" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashwin-varghese-vinod?trk=profile-badge">Ashwin Vinod</a></div>
 
