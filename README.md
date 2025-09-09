@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ashwin%20Vinod-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-varghese-vinod)
 
-<h2><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashwin-varghese-vinod?trk=profile-badge"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/> Ashwin Vinod</a></h2>
+<h1><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashwin-varghese-vinod?trk=profile-badge"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/> Ashwin Vinod</a></h1>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
