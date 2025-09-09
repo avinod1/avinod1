@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="ashwin-varghese-vinod" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashwin-varghese-vinod?trk=profile-badge">Ashwin Vinod</a></div>
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Ashwin%20Vinod-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-varghese-vinod)
+
 <h2><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashwin-varghese-vinod?trk=profile-badge"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/> Ashwin Vinod</a></h2>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
