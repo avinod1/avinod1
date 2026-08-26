@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h1><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ashwin-varghese-vinod?trk=profile-badge"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/> Ashwin Vinod</a></h1>
 
 <h2>About</h2>
-<p>I’m a junior at the University of Tennessee majoring in Computer Science with a Business Administration minor. My experience spans front-end and back-end development, including building a class scheduler web application with my team, and I’m complementing my technical background with finance coursework and certifications. I’m especially interested in applying programming, data analysis, and quantitative problem-solving to challenges in markets, technology, and business.</p>
+<p>Hi, I am a senior at the University of Tennessee, majoring in Computer Science with a Business Administration and Machine Learning minor. I have experience in building quantitative models that track across markets and compare stocks from the US and Korean stock exchange. I have built front-end and back-end projects, including building a team-based class scheduler web application. Alongside my technical coursework, I’m pursuing finance and data-driven certifications to strengthen my understanding of business and technology.</p>
+<p>I’m especially interested in applying programming, data analysis, and quantitative problem-solving to challenges in markets, technology, and business.</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
